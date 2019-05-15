@@ -1,0 +1,336 @@
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+
+
+
+body {
+
+  background-color: black;
+}
+a {
+color: #FFB8B3;
+}
+
+
+#title{
+ position:absolute;
+ left:65%;
+ top:30%;
+ font-family: 'Orbitron', sans-serif;
+ color: black;
+ font-size: 40pt;
+
+
+
+
+
+}
+
+#subtitle{
+position:absolute;
+left:10%;
+top:20%;
+font-family: 'Orbitron', sans-serif;
+font-size: 20pt;
+color: #FFB8B3;
+
+}
+
+#subtitle2{
+position:absolute;
+left:10%;
+top:30%;
+font-family: 'Orbitron', sans-serif;
+font-size: 20pt;
+
+}
+
+#subtitle3{
+  position:absolute;
+  left:10%;
+  top:40%;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 20pt;
+
+}
+#subtitle4{
+  position:absolute;
+  left:10%;
+  top:50%;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 20pt;
+
+}
+#subtitle5{
+  position:absolute;
+  left:10%;
+  top:60%;
+font-family: 'Orbitron', sans-serif;
+  font-size: 20pt;
+
+}
+#subtitle6{
+  position:absolute;
+  left:10%;
+  top:70%;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 20pt;
+
+}
+
+#image{
+  position:absolute;
+  left:30%;
+  top:10%;
+}
+#image2-1{
+  position: absolute;
+  left:30%;
+  top:10%;
+
+}
+#glitchcontenttitle{
+  position: absolute;
+  left:49%;
+  top:50%;
+  font-family: sans-serif;
+  font-size: 20pt;
+}
+#contentglitch{
+  position:absolute;
+  left:49%;
+  top:45%;
+  width:10%;
+  font-family: sans-serif;
+
+}
+ #compositiontitle{
+   position:absolute;
+   left:49%;
+   top:60%;
+   font-family: sans-serif;
+ }
+
+ #composition{
+   position:absolute;
+   left:43%;
+   top:59%;
+   font-family: sans-serif;
+   font-size: 20pt;
+ }
+ #compositioncontent{
+   position: absolute;
+   left:35%;
+   top:65%;
+   width:15%;
+   font-family: sans-serif;
+
+ }
+#cyborgimage{
+  position:absolute;
+  left:25%;
+  top:105%;
+}
+
+#cyborgtitle{
+  position:absolute;
+  left:49%;
+  top:105%;
+  font-family: sans-serif;
+}
+
+#cyborgcontext{
+position:absolute;
+left:49%;
+top:110%;
+font-family: sans-serif;
+width:15%;
+}
+#audio{
+  position:absolute;
+  left:33%;
+  top:15%;
+}
+#audiotitle{
+  position:absolute;
+  left:33%;
+  top:50%;
+  font-family: sans-serif;
+}
+
+#audiocontext{
+  position:absolute;
+  left:33%;
+  top:56%;
+  font-family: sans-serif;
+  font-size: 20pt;
+  width:35%;
+
+}
+#video{
+  position:absolute;
+  left:33%;
+  top:70%;
+
+}
+#videotitle{
+  position:absolute;
+  left:33%;
+  top:120%;
+  font-family: sans-serif;
+  font-size: 20pt;
+  width:35%;
+}
+
+#videotitle{
+    position:absolute;
+    left:33%;
+    top:120%;
+    font-family: sans-serif;
+    font-size: 20pt;
+    width:35%;
+}
+#videocontext{
+    position:absolute;
+    left:33%;
+    top:123%;
+    font-family: sans-serif;
+    font-size: 20pt;
+    width:35%;
+}
+#netart{
+  position:absolute;
+  left:25%;
+  top:10%;
+
+
+}
+#netarttitle{
+    position:absolute;
+    left:33%;
+    top:65%;
+    font-family: sans-serif;
+    font-size: 20pt;
+    width:35%;
+}
+#netartcontext{
+    position:absolute;
+    left:33%;
+    top:70%;
+    font-family: sans-serif;
+    font-size: 20pt;
+    width:35%;
+}
+#codeart{
+  position:absolute;
+  left:40%;
+  top:10%;
+}
+#codearttitle{
+    position:absolute;
+    left:33%;
+    top:35%;
+    font-family: sans-serif;
+    font-size: 20pt;
+    width:35%;
+}
+
+#codeartcontext{
+    position:absolute;
+    left:33%;
+    top:40%;
+    font-family: sans-serif;
+    font-size: 20pt;
+    width:35%;
+}
+#codeart{
+  position:absolute;
+  left:40%;
+  top:10%;
+}
+#glitchweb{
+  position:absolute;
+  left:20%;
+  top:10%;
+}
+#glitchwebtitle{
+    position:absolute;
+    left:5%;
+    top:15%;
+    font-family: sans-serif;
+    font-size: 20pt;
+    width:20%;
+}
+#glitchwebcontext{
+    position:absolute;
+    left:5%;
+    top:19%;
+    font-family: sans-serif;
+    font-size: 20pt;
+    width:10%;
+}
+
+#arttitle{
+    position:absolute;
+    left:30%;
+    top:10%;
+    font-family: sans-serif;
+    font-size: 20pt;
+
+}
+#artcontext{
+  position:absolute;
+  left:30%;
+  top:20%;
+  font-family: sans-serif;
+  font-size: 20pt;
+  width:34%;
+  background-color: #FFB8B3;
+  color:white;
+  text-align: justify;
+}
+#home{
+    position:absolute;
+    left:80%;
+    top:80%;
+    font-family: sans-serif;
+    font-size: 20pt;
+    font-family: sans-serif;
+
+}
+
+#homeimage{
+    position:absolute;
+    left:80%;
+    top:130%;
+    font-family: sans-serif;
+    font-size: 20pt;
+    font-family: sans-serif;
+  }
+
+
+#homegallery{
+  position:absolute;
+  left:5%;
+  top:80%;
+  font-family: sans-serif;
+  font-size: 20pt;
+  font-family: sans-serif;
+}
+#homeaudio{
+  position:absolute;
+  left:80%;
+  top:130%;
+  font-family: sans-serif;
+  font-size: 20pt;
+  font-family: sans-serif;
+}
+
+}
+
+
+
+
+
+}
